@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Icon(Boxicons.bx_plus_circle),
-                Icon(Boxicons.bx_pointer),
+                Icon(Boxicons.bxs_pointer),
                 Icon(Boxicons.bx_star),
                 Icon(Boxicons.bx_power_off),
                 Icon(Boxicons.bx_printer),
