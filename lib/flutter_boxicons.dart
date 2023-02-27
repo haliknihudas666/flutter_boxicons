@@ -29,7 +29,7 @@ class Boxicons {
   Boxicons._();
 
   static const _kFontFam = 'BoxIcons';
-  static const String? _kFontPkg = null;
+  static const String _kFontPkg = 'flutter_boxicons';
 
   static const IconData bxl_venmo =
       IconData(0xe900, fontFamily: _kFontFam, fontPackage: _kFontPkg);
